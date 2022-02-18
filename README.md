@@ -21,7 +21,7 @@ Currently,I’m an Associate Professor in School of Mathematical Sciences from I
    
 😄My research interests include pattern recognition, text categorization, and data mining.
 
-[tingtingv's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingtingv&show_icons=true&theme=tokyonight)
+![optimization for machine intelligence's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingtingv&show_icons=true&theme=tokyonight)
 
 ### My side project
 
