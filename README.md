@@ -25,5 +25,5 @@ Currently,I’m an Associate Professor in School of Mathematical Sciences from I
 
 
 ### Get in touch
-[![微信公众号] (https://img.shields.io/badge/微信公众号-white?logo=wechat)]https://OPTIMAL机器学习.com/
+[![微信公众号] (https://img.shields.io/badge/微信公众号-white?logo=wechat)]https://www.optimai-group.org/
 
