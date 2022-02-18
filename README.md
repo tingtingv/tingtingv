@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 🌱 I’m Zhen Wang王震，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014. Currently, I’m an Associate Professor in School of Mathematical Sciences from Inner Monggolia University. 
+   
 😄My research interests include pattern recognition, text categorization, and data mining.
