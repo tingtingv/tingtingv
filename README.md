@@ -11,5 +11,5 @@ Currently,I’m an Associate Professor in School of Mathematical Sciences from I
 
 
 ### Get in touch
--https://www.optima-group.org
+-https://www.optimal-group.org
 
