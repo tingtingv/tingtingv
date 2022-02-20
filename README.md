@@ -7,6 +7,8 @@ Currently,I’m an Associate Professor in School of Mathematical Sciences from I
 
 ![optimization for machine intelligence's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingtingv&show_icons=true&theme=tokyonight)
 
+ - [微信公众号：OPTIMAL机器学习](https://res.cloudinary.com/tingtingv-photos/image/upload//cover/wechat-qrcode-scan-to-follow.jpg)
+
 ### My side project
 
 
